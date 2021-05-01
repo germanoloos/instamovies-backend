@@ -1,2 +1,1 @@
-web: ./node_modules/.bin/forever -m 5 server
-worker: node worker
+web: npm start
