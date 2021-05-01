@@ -1,0 +1,17 @@
+{
+  "addons": [
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "instamovies-backend",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
